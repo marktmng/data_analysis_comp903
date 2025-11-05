@@ -8,7 +8,7 @@ Before running the scripts, ensure you have Python 3.8+ installed.
 
 Then, install the required Python libraries by running the following command in your terminal or command prompt:
 
-pip install matplotlib seaborn scipy scikit-learn
+> pip install matplotlib seaborn scipy scikit-learn
 
 
 These packages are required for statistical analysis and data visualization:
